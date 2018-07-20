@@ -1,0 +1,8 @@
+https://angular.io/guide/quickstart
+
+https://fonts.googleapis.com/css?family=Montserrat:300,700
+
+https://fonts.googleapis.com/icon?family=Material+Icons
+
+https://jsonplaceholder.typicode.com/users
+
