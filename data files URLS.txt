@@ -6,3 +6,25 @@ https://fonts.googleapis.com/icon?family=Material+Icons
 
 https://jsonplaceholder.typicode.com/users
 
+https://angular.io/guide/animations
+
+To open visual studio code application use -
+> code .
+
+To Run Angular application code use -
+> ng serve -o 
+or
+>ng serve - open
+
+To add animation on Your angular application code use -
+> npm install @angular/animations@latest --save
+
+To perform build operation on angulat js code use -
+> ng build
+
+it will go and create the dist(Distributer) folder
+
+> ng build --prod
+
+
+
