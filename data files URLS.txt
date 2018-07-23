@@ -10,6 +10,11 @@ https://angular.io/guide/animations
 
 For material application - 07/23/2018-
 https://material.angular.io/guide/theming
+https://material.angular.io/components/categories
+https://material.angular.io/components/menu/examples
+
+https://materializecss.com/getting-started.html
+
 
 To open visual studio code application use -
 > code .
