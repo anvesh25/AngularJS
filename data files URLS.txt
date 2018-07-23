@@ -8,6 +8,9 @@ https://jsonplaceholder.typicode.com/users
 
 https://angular.io/guide/animations
 
+For material application - 07/23/2018-
+https://material.angular.io/guide/theming
+
 To open visual studio code application use -
 > code .
 
