@@ -4,6 +4,7 @@ import { NgModule } from '@angular/core';
 import { AppRoutingModule, routingComponent } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
+import { DepartmentDetailComponent } from './department-detail/department-detail.component';
 // import { DepatmentListComponent } from './depatment-list/depatment-list.component';
 // import { EmployeeListComponent } from './employee-list/employee-list.component';
 
@@ -11,7 +12,8 @@ import { PageNotFoundComponent } from './page-not-found/page-not-found.component
   declarations: [
     AppComponent,
     routingComponent,
-    PageNotFoundComponent
+    PageNotFoundComponent,
+    DepartmentDetailComponent
     // DepatmentListComponent,
     // EmployeeListComponent
   ],
