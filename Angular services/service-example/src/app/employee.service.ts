@@ -10,7 +10,7 @@ import 'rxjs/add/observable/throw';
 
 
 @Injectable({
-  providedIn: 'root'
+  providedIn: 'root'.
 })
 export class EmployeeService {
 
