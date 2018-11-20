@@ -1,0 +1,9 @@
+Firestore - https://console.firebase.google.com/u/0/project/filestorecruid/database/firestore/data~2Femployees~2FGByPD6zyMU3kWbZ3CXj8
+
+BootStrap - https://getbootstrap.com/docs/4.1/getting-started/introduction/
+
+BootstrapCDN - https://www.bootstrapcdn.com/fontawesome/
+
+NGX Toastr - https://www.npmjs.com/package/ngx-toastr 
+
+Explanation - https://www.youtube.com/watch?v=5I6k77uqtLY&t=150s
